@@ -4,7 +4,8 @@ from multiprocessing import Process, Manager, Pool
 from requests.exceptions import RequestException
 from wikileaks import does_have_link, get_linked_articles_unique, get_relative_path
 
-# TODO: Find a more suitable name, as there are now *4* methods and not just 2
+# TODO: Find a more suitable name, as there are now *5* methods and not just 2,
+#	and one of them is "execute synchronically"
 
 # *Notice* that creating threads/processes uncotrollably may cause wikipedia to stop responding.
 # 	For medium-large sized articles, I highly recommend using a more subtle approach than an attempted DOS.
