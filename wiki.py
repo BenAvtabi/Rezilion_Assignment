@@ -5,10 +5,12 @@ if __name__ == "__main__":
 	target_url = input("Please enter a URL to an article in the English Wikipedia: ")
 
 	compare_methods(target_url)
-	"""Final results: {'Sync': 156.205952167511,
-						'Multithreading Raw': 22.243486642837524,
-						'Thread Pool Executor': 26.372727155685425,
-						'Multiprocessing Raw': 36.10838603973389,
-						'Process Pool': 23.64469861984253}
+	"""Final results: {'Sync': 160.0629403591156,
+						'Multithreading Raw': 22.139481782913208,
+						'Thread Pool Executor': 24.32761859893799,
+						'Multiprocessing Raw': 38.31907296180725,
+						'Process Pool': 22.66799545288086}
+		Notice that despite "Multithreading Raw" being very short,
+			this is only because it made so many requests that wiki stopped responding and the requests died out.
 		Please read the doc for `ExecutionMethod` to see why using "Multithreading Raw",
 			and especially "Multiprocessing Raw" is bad for medium+ sized articles."""
