@@ -1,0 +1,516 @@
+Please enter a URL to an article in the English Wikipedia: Finding linked wiki articles...
+Found 439 linked articles
+Finding reverse links...
+Found reverse link from https://en.wikipedia.org/wiki/Beersheba_Turkish_railway_station
+Found reverse link from https://en.wikipedia.org/wiki/Beersheba_Turkish_Railway_Station
+Found reverse link from https://en.wikipedia.org/wiki/Beersheba_(disambiguation)
+Found reverse link from https://en.wikipedia.org/wiki/Beersheba
+Found reverse link from https://en.wikipedia.org/wiki/Beersheba_Theater
+Found reverse link from https://en.wikipedia.org/wiki/Beersheba_bus_bombings
+Found reverse link from https://en.wikipedia.org/wiki/Beersheba_metropolitan_area
+['https://en.wikipedia.org/wiki/Beersheba_Turkish_railway_station', 'https://en.wikipedia.org/wiki/Beersheba_Turkish_Railway_Station', 'https://en.wikipedia.org/wiki/Beersheba_(disambiguation)', 'https://en.wikipedia.org/wiki/Beersheba', 'https://en.wikipedia.org/wiki/Beersheba_Theater', 'https://en.wikipedia.org/wiki/Beersheba_bus_bombings', 'https://en.wikipedia.org/wiki/Beersheba_metropolitan_area']
+Sync took: 160.0629403591156
+
+Finding linked wiki articles...
+Found 439 linked articles
+Finding reverse links...
+Found reverse link from https://en.wikipedia.org/wiki/Beersheba_Turkish_railway_station
+Found reverse link from https://en.wikipedia.org/wiki/Beersheba_Turkish_Railway_Station
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/1931_census_of_Palestine.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/1931_census_of_Palestine.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Or_Yehuda.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Or_Yehuda.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Neve_Midbar_Regional_Council.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Neve_Midbar_Regional_Council.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Conch_Arena.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Conch_Arena.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Tamra.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Tamra.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Grid_plan.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Grid_plan.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Sdot_Negev_Regional_Council.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Sdot_Negev_Regional_Council.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/David_Naccache.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/David_Naccache.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Yehudit_Ravitz.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Yehudit_Ravitz.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Book_of_Joshua.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Book_of_Joshua.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/West_Bank.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/West_Bank.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Beit_Shemesh.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Beit_Shemesh.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Vasermil_Stadium.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Vasermil_Stadium.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/POW.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/POW.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Qalansawe.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Qalansawe.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Beersheba_(disambiguation).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Beersheba_(disambiguation).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Hatzerim.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Hatzerim.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Orna_Banai.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Orna_Banai.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Visitor_center.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Visitor_center.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/World_War_I.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/World_War_I.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Mini_Book.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Mini_Book.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Soroka_Medical_Center.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Soroka_Medical_Center.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Nahal_Beka.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Nahal_Beka.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Mozart.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Mozart.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/City_of_Parramatta.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/City_of_Parramatta.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Kabbalah.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Kabbalah.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Rahat.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Rahat.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Abraham_Path.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Abraham_Path.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Druze.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Druze.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Shlomo_Mintz.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Shlomo_Mintz.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Jewish_exodus_from_Arab_lands.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Jewish_exodus_from_Arab_lands.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Tayibe.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Tayibe.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Jacob.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Jacob.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Beersheba.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Beersheba.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Romania.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Romania.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Jewish_National_Fund.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Jewish_National_Fund.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Meitar.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Meitar.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Beersheba_Theater.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Beersheba_Theater.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Beersheba_Tehni_School.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Beersheba_Tehni_School.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Samuel_(Bible).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Samuel_(Bible).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Kiryat_Gat.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Kiryat_Gat.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Lyon.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Lyon.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Histadrut.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Histadrut.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Cistern.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Cistern.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Idan_Tal.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Idan_Tal.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Khan_(inn).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Khan_(inn).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Cochin_Jews.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Cochin_Jews.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Ayit_Aviation_and_Tourism.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Ayit_Aviation_and_Tourism.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Brady_Haran.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Brady_Haran.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/High_speed_railway_to_Eilat.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/High_speed_railway_to_Eilat.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/France.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/France.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Sderot.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Sderot.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Beersheba_bus_bombings.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Beersheba_bus_bombings.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/List_of_cities_in_Israel.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/List_of_cities_in_Israel.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Cambridge_University_Press.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Cambridge_University_Press.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/United_States.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/United_States.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Judea_and_Samaria_Area.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Judea_and_Samaria_Area.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Victor_Mikhalevski.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Victor_Mikhalevski.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Geographic_coordinate_system.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Geographic_coordinate_system.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Shin_Bet.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Shin_Bet.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Ben_Gurion_University_of_the_Negev.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Ben_Gurion_University_of_the_Negev.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Highway_25_(Israel).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Highway_25_(Israel).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Beersheva_bus_station_shooting.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Beersheva_bus_station_shooting.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Israel_in_Egypt.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Israel_in_Egypt.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Haganah.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Haganah.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Israel_Meteorological_Service.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Israel_Meteorological_Service.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Pinchas_Zukerman.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Pinchas_Zukerman.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Gaza_Strip.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Gaza_Strip.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Lakiya.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Lakiya.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Chalcolithic.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Chalcolithic.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Space_Shuttle_Columbia_disaster.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Space_Shuttle_Columbia_disaster.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Sinai_and_Palestine_Campaign.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Sinai_and_Palestine_Campaign.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/David_Newman_(political_geographer).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/David_Newman_(political_geographer).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Schubert.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Schubert.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Australia.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Australia.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Jerusalem.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Jerusalem.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Hod_HaSharon.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Hod_HaSharon.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Eshkol_Regional_Council.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Eshkol_Regional_Council.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Ness_Ziona.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Ness_Ziona.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Rehovot.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Rehovot.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Hejaz_Railway.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Hejaz_Railway.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Danny_Karavan.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Danny_Karavan.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Mutasarrifate_of_Jerusalem.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Mutasarrifate_of_Jerusalem.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Oni,_Georgia.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Oni,_Georgia.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Israel_Aerospace_Industries.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Israel_Aerospace_Industries.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Israel_Defense_Forces.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Israel_Defense_Forces.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Wrestling.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Wrestling.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Ostracon.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Ostracon.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/New_Zealand.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/New_Zealand.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Highway_60_(Israel).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Highway_60_(Israel).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Yokneam_Illit.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Yokneam_Illit.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Ashkelon.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Ashkelon.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Almog_Cohen.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Almog_Cohen.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Blueprint_Negev.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Blueprint_Negev.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Addis_Ababa.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Addis_Ababa.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Argentina.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Argentina.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Beersheba_metropolitan_area.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Beersheba_metropolitan_area.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/ISBN_(identifier).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/ISBN_(identifier).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Handel.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Handel.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Zvika_Hadar.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Zvika_Hadar.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Bene_Israel.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Bene_Israel.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Lockheed_Martin.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Lockheed_Martin.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Winnipeg.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Winnipeg.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/United_Nations_Conciliation_Commission.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/United_Nations_Conciliation_Commission.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Open_University_of_Israel.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Open_University_of_Israel.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Haaretz.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Haaretz.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Islamic_State.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Islamic_State.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Judea_(Roman_province).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Judea_(Roman_province).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Monument_to_the_Negev_Brigade.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Monument_to_the_Negev_Brigade.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Ofakim.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Ofakim.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Railway_to_Beersheba.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Railway_to_Beersheba.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Urban_forest.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Urban_forest.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Tel_Sheva.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Tel_Sheva.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Haifa_District.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Haifa_District.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Nabatean.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Nabatean.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Netivot.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Netivot.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Lod.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Lod.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Vespasian.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Vespasian.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Omer,_Israel.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Omer,_Israel.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Abraham.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Abraham.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Relative_humidity.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Relative_humidity.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Rossini.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Rossini.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Petah_Tikva.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Petah_Tikva.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Berghahn_Books.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Berghahn_Books.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Israeli_new_shekel.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Israeli_new_shekel.
+,   S   e   c   -   C   H   -   U   A   -   B   i   t   n   e   s   s   ,   S   e   c   -   C   H   -   U   A   -   F   u   l   l   -   V   e   r   s   i   o   n   -   L   i   s   t   ,   S   e   c   -   C   H   -   U   A   -   M   o   d   e   l   ,   S   e   c   -   C   H   -   U   A   -   P   l   a   t   f   o   r   m   -   V   e   r   s   i   o   n      
+   p   e   r   m   i   s   s   i   o   n   s   -   p   o   l   i   c   y   :       i   n   t   e   r   e   s   t   -   c   o   h   o   r   t   =   (   )   ,   c   h Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/2022_Beersheba_attack.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/2022_Beersheba_attack.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Ilan_Ramon.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Ilan_Ramon.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Jerusalem_Venture_Partners.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Jerusalem_Venture_Partners.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Gaza_City.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Gaza_City.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Egypt.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Egypt.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Zev_Vilnay.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Zev_Vilnay.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Mandatory_Palestine.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Mandatory_Palestine.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Mitzpe_Ramon.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Mitzpe_Ramon.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/History_of_ancient_Israel_and_Judah.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/History_of_ancient_Israel_and_Judah.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Bat_Yam.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Bat_Yam.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Battle_of_Beersheba_(1948).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Battle_of_Beersheba_(1948).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Ministry_of_Finance_(Israel).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Ministry_of_Finance_(Israel).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Northern_District_(Israel).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Northern_District_(Israel).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Suicide_bomber.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Suicide_bomber.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Egged_Bus_Cooperative.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Egged_Bus_Cooperative.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Sinai_Peninsula.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Sinai_Peninsula.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Arabic_language.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Arabic_language.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Migdal_HaEmek.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Migdal_HaEmek.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Gliding.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Gliding.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Karmiel.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Karmiel.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Germany.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Germany.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Herzliya.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Herzliya.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Arabah.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Arabah.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Ronit_Elkabetz.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Ronit_Elkabetz.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Wuppertal.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Wuppertal.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Rugby_union.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Rugby_union.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Mediterranean_climate.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Mediterranean_climate.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Negev.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Negev.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Givatayim.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Givatayim.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Patriarchs_(Bible).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Patriarchs_(Bible).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/University_of_Nottingham.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/University_of_Nottingham.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Local_council_(Israel).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Local_council_(Israel).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Central_Arava_Regional_Council.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Central_Arava_Regional_Council.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Afula.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Afula.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Lakhish_Regional_Council.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Lakhish_Regional_Council.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Amos_(prophet).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Amos_(prophet).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Regional_council_(Israel).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Regional_council_(Israel).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Football_in_Israel.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Football_in_Israel.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Hebrew_language.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Hebrew_language.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Gnaeus_Pompeius_Magnus.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Gnaeus_Pompeius_Magnus.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Archaeological_site.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Archaeological_site.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Kiryat_Yam.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Kiryat_Yam.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Dead_Sea.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Dead_Sea.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Bagrut.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Bagrut.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Hof_Ashkelon_Regional_Council.
+Found reverse link from https://en.wikipedia.org/wiki/Beersheba_Turkish_railway_station
+Found reverse link from https://en.wikipedia.org/wiki/Beersheba_bus_bombings
+Found reverse link from https://en.wikipedia.org/wiki/Beersheba_Turkish_Railway_Station
+Found reverse link from https://en.wikipedia.org/wiki/Beersheba_Theater
+Found reverse link from https://en.wikipedia.org/wiki/Beersheba_(disambiguation)
+Found reverse link from https://en.wikipedia.org/wiki/Beersheba
+Found reverse link from https://en.wikipedia.org/wiki/Beersheba_metropolitan_area
+Found reverse link from https://en.wikipedia.org/wiki/Beersheba_Turkish_railway_station
+Found reverse link from https://en.wikipedia.org/wiki/Beersheba_metropolitan_area
+Found reverse link from https://en.wikipedia.org/wiki/Beersheba_bus_bombings
+Found reverse link from https://en.wikipedia.org/wiki/Beersheba_(disambiguation)
+Found reverse link from https://en.wikipedia.org/wiki/Beersheba_Theater
+Found reverse link from https://en.wikipedia.org/wiki/Beersheba
+Found reverse link from https://en.wikipedia.org/wiki/Beersheba_Turkish_Railway_Station
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Hof_Ashkelon_Regional_Council.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Dan_Beersheva.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Dan_Beersheva.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Merhavim_Regional_Council.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Merhavim_Regional_Council.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Haifa.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Haifa.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Mishmar_HaNegev.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Mishmar_HaNegev.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Babylonian_Empire.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Babylonian_Empire.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Amalek.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Amalek.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/United_Nations_Security_Council.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/United_Nations_Security_Council.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/2013_Beersheba_shooting.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/2013_Beersheba_shooting.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Ramat_HaSharon.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Ramat_HaSharon.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Sakhnin.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Sakhnin.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Turner_Stadium.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Turner_Stadium.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Bnei_Shimon_Regional_Council.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Bnei_Shimon_Regional_Council.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Muslim.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Muslim.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Tiberias.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Tiberias.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Kiryat_Bialik.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Kiryat_Bialik.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Eli_Zizov.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Eli_Zizov.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Ministry_of_Education_(Israel).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Ministry_of_Education_(Israel).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Seattle.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Seattle.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Ottoman_Empire.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Ottoman_Empire.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Catholic_Encyclopedia.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Catholic_Encyclopedia.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Southern_District_(Israel).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Southern_District_(Israel).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Tamar_Regional_Council.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Tamar_Regional_Council.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Kfar_Yona.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Kfar_Yona.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/1949_Armistice_Agreements.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/1949_Armistice_Agreements.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Soviet_Union.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Soviet_Union.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Battalion.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Battalion.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Operation_Yoav.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Operation_Yoav.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Loess.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Loess.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/University_of_Pennsylvania_Press.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/University_of_Pennsylvania_Press.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Dunam.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Dunam.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Safed.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Safed.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Ottoman_era.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Ottoman_era.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/List_of_Presidents_of_Egypt.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/List_of_Presidents_of_Egypt.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Saul.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Saul.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Arraba,_Israel.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Arraba,_Israel.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/EMC_Corporation.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/EMC_Corporation.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Eli_Alaluf.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Eli_Alaluf.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Nazareth.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Nazareth.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Nof_HaGalil.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Nof_HaGalil.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Above_sea_level.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Above_sea_level.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Georgia_(country).
+;F|2ó f"Èim6Œ·Ó²`´8úŒÎÓÝFÞ
+>ë]|È|û°+S¤’biQ%aDŒ,©C–#ß¬:š)Å©é]¶žž0
+9Îñˆ€ûK]Ì2ì…bC%4V'‘´;p*?n±èœˆ}ŸÔùÛSm`¿,çX«¸_FüÎÄ<	ëI1\iF³àG £B0@0Uÿ0ÿ0Uÿ0U:š…g(¶ïö½An Á”ÚÞ                                                                                                                               ñv´Ô1 ´Øýf« €‘—']Ü°[0qÎ^8jÙ%çê÷a’VøêÚ6Â‡e–.r%/ßÃÉ ßýe ! €                                                                                                pŸ,Wú  Öý| " €10	Uus10U
+digicert inc10Uwww.digicert.com1 0Udigicert global root ca                                                                     íýò ( €…       `P
+H²  ´                               Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Eparchy.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Eparchy.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/David_Tuviyahu.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/David_Tuviyahu.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Deutsche_Telekom.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Deutsche_Telekom.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Israeli_Premier_League.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Israeli_Premier_League.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Georgia_(country).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Elyaniv_Barda.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Elyaniv_Barda.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Kiryat_Ata.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Kiryat_Ata.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Sami_VeSusu.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Sami_VeSusu.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Roman_Empire.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Roman_Empire.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Beer_Sheva_Park_(Seattle).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Beer_Sheva_Park_(Seattle).
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Achaemenid_Empire.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Achaemenid_Empire.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Beit_Eshel.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Beit_Eshel.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Kfar_Saba.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Kfar_Saba.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Kuseife.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/Kuseife.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/39th_Chess_Olympiad.
+Encountered a problem when trying to fetch https://en.wikipedia.org/wiki/39th_Chess_Olympiad.
+['https://en.wikipedia.org/wiki/Beersheba_Turkish_railway_station', 'https://en.wikipedia.org/wiki/Beersheba_Turkish_Railway_Station']
+Multithreading Raw took: 22.139481782913208
+
+Finding linked wiki articles...
+Found 439 linked articles
+Finding reverse links...
+Found reverse link from https://en.wikipedia.org/wiki/Beersheba_Turkish_railway_station
+Found reverse link from https://en.wikipedia.org/wiki/Beersheba_Turkish_Railway_Station
+Found reverse link from https://en.wikipedia.org/wiki/Beersheba_(disambiguation)
+Found reverse link from https://en.wikipedia.org/wiki/Beersheba_Theater
+Found reverse link from https://en.wikipedia.org/wiki/Beersheba_bus_bombings
+Found reverse link from https://en.wikipedia.org/wiki/Beersheba_metropolitan_area
+Found reverse link from https://en.wikipedia.org/wiki/Beersheba
+['https://en.wikipedia.org/wiki/Beersheba_Turkish_railway_station', 'https://en.wikipedia.org/wiki/Beersheba_Turkish_Railway_Station', 'https://en.wikipedia.org/wiki/Beersheba_(disambiguation)', 'https://en.wikipedia.org/wiki/Beersheba_Theater', 'https://en.wikipedia.org/wiki/Beersheba_bus_bombings', 'https://en.wikipedia.org/wiki/Beersheba_metropolitan_area', 'https://en.wikipedia.org/wiki/Beersheba']
+Thread Pool Executor took: 24.32761859893799
+
+Finding linked wiki articles...
+Found 439 linked articles
+Finding reverse links...
+['https://en.wikipedia.org/wiki/Beersheba_Turkish_railway_station', 'https://en.wikipedia.org/wiki/Beersheba_bus_bombings', 'https://en.wikipedia.org/wiki/Beersheba_Turkish_Railway_Station', 'https://en.wikipedia.org/wiki/Beersheba_Theater', 'https://en.wikipedia.org/wiki/Beersheba_(disambiguation)', 'https://en.wikipedia.org/wiki/Beersheba', 'https://en.wikipedia.org/wiki/Beersheba_metropolitan_area']
+Multiprocessing Raw took: 38.31907296180725
+
+Finding linked wiki articles...
+Found 439 linked articles
+Finding reverse links...
+['https://en.wikipedia.org/wiki/Beersheba_Turkish_railway_station', 'https://en.wikipedia.org/wiki/Beersheba_Turkish_Railway_Station', 'https://en.wikipedia.org/wiki/Beersheba_(disambiguation)', 'https://en.wikipedia.org/wiki/Beersheba', 'https://en.wikipedia.org/wiki/Beersheba_Theater', 'https://en.wikipedia.org/wiki/Beersheba_bus_bombings', 'https://en.wikipedia.org/wiki/Beersheba_metropolitan_area']
+Process Pool took: 22.66799545288086
+
+{'Sync': 160.0629403591156, 'Multithreading Raw': 22.139481782913208, 'Thread Pool Executor': 24.32761859893799, 'Multiprocessing Raw': 38.31907296180725, 'Process Pool': 22.66799545288086}
