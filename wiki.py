@@ -1,12 +1,12 @@
 import sys
-from method_comparison import compare_methods
+import method_comparison
 
 if __name__ == "__main__":
 	if not (2 == len(sys.argv)):
 		raise SystemExit("Usage: wiki.py wiki_url")
 	target_url = sys.argv[1]
 
-	compare_methods(target_url)
+	method_comparison.compare_methods(target_url)
 	"""Final results: {'Sync': 160.0629403591156,
 						'Multithreading Raw': 22.139481782913208,
 						'Thread Pool Executor': 24.32761859893799,
