@@ -6,8 +6,9 @@ if __name__ == "__main__":
 		raise SystemExit("Usage: wiki.py wiki_url")
 	target_url = sys.argv[1]
 
-	method_comparison.compare_methods(target_url)
-	"""Final results: {'Sync': 160.0629403591156,
+	method_comparison.ReverseLinkMethodComparison.compare_methods(target_url)
+	"""Final results (Beersheba's article):
+						{'Sync': 160.0629403591156,
 						'Multithreading Raw': 22.139481782913208,
 						'Thread Pool Executor': 24.32761859893799,
 						'Multiprocessing Raw': 38.31907296180725,
