@@ -38,7 +38,7 @@ class ReverseLinkFinder:
 			case ReverseLinkFinder.ExecutionMethod.process_pool:
 				return ReverseLinkFinder._get_reverse_links_process_pool(linked_articles, target_url)
 			case _:
-				raise SystemExit("Invalid execution method")
+				raise Exception("Invalid execution method was used.")
 
 	@staticmethod
 	def _append_if_reverse_link(results, article_url, target_relative_path):

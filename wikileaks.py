@@ -13,7 +13,7 @@ class Wikileaks:
 	def get_relative_path(target_url):
 		target_relative_path = re.search(Wikileaks._RELATIVE_PATH_PATTERN, target_url)
 		if not target_relative_path:
-			raise SystemExit("Could not extract relative path from given URL")
+			raise Exception("Could not extract relative path from given URL.")
 		return target_relative_path.group()
 
 	@staticmethod
@@ -22,7 +22,7 @@ class Wikileaks:
 
 		relative_urls = re.findall(Wikileaks._LINKED_ARTICLE_PATTERN, response.text)
 		if not relative_urls:
-			raise SystemExit("Could not find any linked articles")
+			raise Exception("Could not find any linked articles.")
 
 		return set([Wikileaks.make_proper_URL(relative_url) for relative_url in relative_urls])
 
